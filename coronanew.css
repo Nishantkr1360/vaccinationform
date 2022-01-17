@@ -1,0 +1,89 @@
+body{
+  background-border:oblique;
+  overflow-x:hidden;
+}
+p{
+  color: blue;
+  font-family: 'Ballo Bhaijan 2',cursive;
+  line-height: 15px;
+}
+#Registration:hover{
+  color: red;
+}
+#Registration{
+  /* margin-left: 100px; */
+  margin-top: 50px;
+  font-size: 25px;
+}
+.S{
+  font-size:20px;
+  font-style: oblique;color: brown;
+  margin-top:50px;
+  /* margin-left:250px; */
+  margin-bottom: 50px;
+  }
+.table{
+  /* margin-left:330px; */
+  padding: 50px;
+
+}
+.link{
+  /* margin-left: 330px; */
+  font-size: 40px;
+
+}
+hr{
+  border-style:none;
+  border-top-style: dashed;
+  border-width: 10px;
+  border-color: grey;
+}
+.pro{
+  text-decoration:underline;
+
+}
+.reg{
+  font-size:50px
+}
+.div{
+  background-color: #6998AB;
+  height: 170px;
+  padding-left: 150px;
+}
+.bor{
+  background-color:#FF1700;
+}
+.container-fluid{
+  position: fixed;
+  background-color:#F9D371;
+}
+.fin{
+  /* display: inline; */
+  margin-left:50px;
+   font-family: fantasy;
+   color: black;
+}
+.grid-layout:hover{
+  color:red;
+}
+.f{
+  float: right;
+  margin-right: 100px;
+  margin-bottom:100px;
+}
+.link:hover{
+  color:green;
+}
+.sups{
+  background-color: #FEECE9;
+
+}
+.hov:hover{
+  color:red;
+  text-decoration:inherit;
+}
+.container{
+  width: 100%;
+  col-sm-1;
+  /* background-image: url('pic.jpg'); */
+}
